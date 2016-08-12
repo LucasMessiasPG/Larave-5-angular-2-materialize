@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noEmitHelpers": true,
+    "removeComments": true,
+    "noImplicitAny": false,
+    "types": [
+      "es6-shim"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "vendor",
+    "resources/assets/typescript/vendor.ts"
+  ]
+}

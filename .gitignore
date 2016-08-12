@@ -1,0 +1,15 @@
+/node_modules
+/vendor
+/resources/vendor
+/public/css
+/public/js
+/public/fonts
+/public/uploads
+/public/upload-images
+Homestead.yaml
+Homestead.json
+.env
+.idea
+.phpstorm.meta.php
+_ide_helper.php
+npm-debug.log
